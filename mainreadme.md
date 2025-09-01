@@ -17,5 +17,5 @@
      ~error~\
      - [x] . complete
      - [ ] incomplete
-     - [x] type shi
+     - [x] type shi\
      ![n](https://ichef.bbci.co.uk/news/480/cpsprodpb/32dd/live/1a1a6b50-8340-11f0-ac9e-634b5d3dbe03.jpg.webp)
